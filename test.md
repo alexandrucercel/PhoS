@@ -29,6 +29,10 @@ Bootstrap
 .
 .
 .
+
+3. Data sources:
+
+http://dbpedia.org/page/Category:Phobias
  
 
 
