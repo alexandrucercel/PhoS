@@ -1,6 +1,7 @@
 PhoS - Phobia Smart Assistent
 
-Students: Lamasanu Ion
-          Cercel Alexandru
+Students: Lamasanu Ion, Cercel Alexandru
+
+
           
 
