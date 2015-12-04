@@ -1,4 +1,6 @@
+PhoS - Phobia Smart Assistent
 
-(Phobia Smart Assistant)
-(Phobia Smart Assistant)
-(Phobia Smart Assistant)
+Students: Lamasanu Ion
+          Cercel Alexandru
+          
+
