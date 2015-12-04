@@ -2,7 +2,7 @@ PhoS - Phobia Smart Assistent
 
 Students: Lamasanu Ion, Cercel Alexandru
 
-1. Introduction
+1.Introduction
 
 The user can create an account with his personal informations(first name, last name, email, etc) and select from a list
 of phobias the phobia that he has. After this, he can search from the registered users with similar phobias and add them to friends.
@@ -18,6 +18,17 @@ Use cases:
 -User search people with the same phobia/s and add them to friends list.
 
 -User create an event and add his friends to this event ( the invited users will be alerted from other users phobias)
+
+2.Used technologies:
+
+Asp.Net MVC
+
+BrightstarDB
+
+Bootstrap
+.
+.
+.
  
 
 
